@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Yusuf 👋
+
+🎯 Aspiring Data Scientist  
+💻 Currently learning Python & Data Analysis  
+📊 Interested in data and problem solving  
+
 
 <!--
 **yusuf-data/yusuf-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
