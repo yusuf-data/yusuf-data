@@ -1,8 +1,7 @@
-# Hi, I'm Yusuf 👋
-
-🎯 Aspiring Data Scientist  
-💻 Currently learning Python & Data Analysis  
-📊 Interested in data and problem solving  
+# Selam Ben Yusuf
+🎯 Veri Bilimci Olma Yolunda
+💻 Şu anda Python ve Veri Analizi öğreniyorum
+📊 Veri ve problem çözmeye ilgi duyuyorum
 
 
 <!--
