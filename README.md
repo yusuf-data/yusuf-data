@@ -1,7 +1,7 @@
 # Selam Ben Yusuf
-🎯 Veri Bilimci Olma Yolunda
-💻 Şu anda Python ve Veri Analizi öğreniyorum
-📊 Veri ve problem çözmeye ilgi duyuyorum
+ Veri Bilimci Olma Yolunda
+ Şu anda Python ve Veri Analizi öğreniyorum
+ Veri ve problem çözmeye ilgi duyuyorum
 
 
 <!--
